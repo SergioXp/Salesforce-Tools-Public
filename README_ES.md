@@ -74,4 +74,4 @@ Si te interesa utilizar estas herramientas en tu organización o ver una demostr
 ## 👤 Autor
 
 **Sergio González Hidalgo**
-- 📧 sergio.gonzalez.hidalgo@gmail.com
+- 📧 [sergiogonzalezhidalgo@gmail.com](mailto:sergiogonzalezhidalgo@gmail.com)
