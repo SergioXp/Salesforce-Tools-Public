@@ -74,4 +74,4 @@ If you are interested in using these tools in your organization or seeing a tech
 ## 👤 Author
 
 **Sergio González Hidalgo**
-- 📧 sergio.gonzalez.hidalgo@gmail.com
+- 📧 [sergiogonzalezhidalgo@gmail.com](mailto:sergiogonzalezhidalgo@gmail.com)
